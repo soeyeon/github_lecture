@@ -1,8 +1,11 @@
-#PR Type
--features
--big size
--ETC
+# PR TYPE
+- Features
+- Bug Fix
+- Documentaion
+- ETC
+- Good
 
+#Description
 
 ##good
 
